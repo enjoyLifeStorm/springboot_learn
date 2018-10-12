@@ -19,5 +19,6 @@ public class HelloApplicationTest2 {
     @Test
     public void test1() throws Exception {
         System.out.println(blogProperties.getName());
+        System.out.println(blogProperties.getTest2());
     }
 }
